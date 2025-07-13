@@ -19,7 +19,7 @@ The DevOps lifecycle consists of several phases, including:
 - **Operate**: Monitor and manage production systems  
 - **Monitor**: Collect feedback and metrics  
 
-DevOps Lifecycle https://www.redhat.com/cms/managed-files/devops-lifecycle-illustration.png
+DevOps Lifecycle https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp
 
 ## Benefits of DevOps
 
